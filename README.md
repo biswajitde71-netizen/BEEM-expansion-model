@@ -36,6 +36,9 @@ BEEM-framework/
 ├── requirements.txt        # Python dependencies
 └── .gitignore              # Clean repo management
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7707184.svg)](https://doi.org/10.5281/zenodo.7707184)
+## 📚 Citation
+
+If you use or reference BEEM in your work, please cite:
 
 Biswajit De (2023). *Background Entropic Expansion*. Zenodo. https://doi.org/10.5281/zenodo.7707184
 Author: Biswajit De  
