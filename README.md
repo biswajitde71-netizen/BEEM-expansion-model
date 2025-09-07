@@ -35,4 +35,9 @@ BEEM-framework/
 │   └── diagrams/
 ├── requirements.txt        # Python dependencies
 └── .gitignore              # Clean repo management
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7707184.svg)](https://doi.org/10.5281/zenodo.7707184)
+
+Biswajit De (2023). *Background Entropic Expansion*. Zenodo. https://doi.org/10.5281/zenodo.7707184
+Author: Biswajit De  
+ORCID: [https://orcid.org/0009-0005-9708-8444](https://orcid.org/0009-0005-9708-8444)
 
